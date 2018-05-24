@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "EverPew",
+"dataUrl": "Latest Build.data.unityweb",
+"asmCodeUrl": "Latest Build.asm.code.unityweb",
+"asmMemoryUrl": "Latest Build.asm.memory.unityweb",
+"asmFrameworkUrl": "Latest Build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
